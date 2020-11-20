@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-view/>
     <h1>{{ msg }}</h1>
+    <h2>1111</h2>
   </div>
 </template>
 
